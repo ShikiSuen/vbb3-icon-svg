@@ -1,31 +1,39 @@
-7z.svg
-attach.svg
+7z.svg !!!!!
+zip.svg !!!!!
+rar.svg !!!!!
+gz !!!!!
+tgz !!!!!
+
+dorico.svg !!!!!! Dorico Project
+ftmx.svg !!!!!! Finale Template (64-bit)
+ly.svg !!!!!!! LilyPond Project File
+sib.svg !!!!!!! Sibelius Project File
+musx.svg !!!!!!! Finale Project File (64-bit)
+mscz.svg !!!!!!! MuseScore Project File
+
+php.svg
+xml.svg
+mxl.svg
+txt.svg
+rtf.svg
+docx.svg
+
 bmp.svg
-doc.svg
-dorico.svg
-ftmx.svg
+png.svg
+psd.svg
 gif.svg
 heic.svg
 jpe.svg
 jpeg.svg
 jpg.svg
-ly.svg
-MID.svg
-musx.svg
-mus.svg
-mp3.svg
-mxl.svg
-pdf.svg
-php.svg
-png.svg
-psd.svg
-rar.svg
-rtf.svg
-sib.svg
 tif.svg
 tiff.svg
-txt.svg
+
+
+MID.svg
+mp3.svg
+pdf.svg
+
 wmv.svg
-xml.svg
-zip.svg
-rar.svg
+
+attach.svg
