@@ -1,0 +1,34 @@
+7z.svg !!!!! 7-zip Archive
+zip.svg !!!!! WinZIP Archive
+rar.svg !!!!! WinRAR Archive
+gz !!!!! G-Zip Archive 
+tgz !!!!! G-Zipped Tar Archive
+
+dorico.svg !!!!!! Dorico Project
+ftmx.svg !!!!!! Finale Template (64-bit)
+ly.svg !!!!!!! LilyPond Project File
+sib.svg !!!!!!! Sibelius Project File
+musx.svg !!!!!!! Finale Project File (64-bit)
+mscz.svg !!!!!!! MuseScore Project File
+
+mxl.svg !!!!! Music XML Compressed
+php.svg !!!!! PHP Script File
+xml.svg !!!!! Extended Markup Language
+txt.svg !!!!! Text File
+rtf.svg !!!!! Rich Text Format
+docx.svg !!!!! Microsoft Word Document
+pdf.svg !!!!! Portable Document Format
+
+bmp.svg !!!!! Windows Bitmap
+svg.svg !!!!! Scalable Vector Graphics
+png.svg !!!!! Portable Network Graphics
+gif.svg !!!!! Graphics Interchange Format
+jpg.svg !!!!! JPEG Image
+heic.svg !!!!! High Efficiency Image File Format
+
+MID.svg !!!!! MIDI Instruction File
+mp3.svg !!!!! MP3 Audio
+m4a.svg !!!!! MPEG-4 Audio
+opus.svg !!!!! Opus Audio
+
+attach.svg !!!!! Unknown File Format
