@@ -1,8 +1,8 @@
 /*======================================================================*\
 || #################################################################### ||
-|| # vBulletin 3.8.12
+|| # vBulletin 3.9.0
 || # ---------------------------------------------------------------- # ||
-|| # All code in this file is ©2000-2017 vBulletin Solutions Inc.     # ||
+|| # All code in this file is ï¿½2000-2017 vBulletin Solutions Inc.     # ||
 || # This file may not be redistributed in whole or significant part. # ||
 || # ---------------- VBULLETIN IS NOT FREE SOFTWARE ---------------- # ||
 || #        www.vbulletin.com | www.vbulletin.com/license.html        # ||
@@ -20,6 +20,7 @@
 body, p, td, tr, ol, ul
 {
 	font: 10pt Tahoma, Arial, Arimo, sans-serif;
+	line-height: 160% !important
 }
 
 /* Small Sized Text */
